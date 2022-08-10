@@ -108,9 +108,9 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
- // background-color: $header-bg-color;
+ background-color: $header-bg-color;
   //background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
-  background-image: url("../BannerSuitecaseC.svg");
+  background-image: url("BannerSuitecaseC.svg");
   @include large {
     padding: 5rem 6rem;
   }
