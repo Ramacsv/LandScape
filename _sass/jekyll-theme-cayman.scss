@@ -127,6 +127,7 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
+ // background-image: url("../../logo/BannerSuitecaseD.svg");
   background-image: url("BannerSuitecaseC.svg");
   @include large {
     font-size: 3.25rem;
