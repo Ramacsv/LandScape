@@ -125,6 +125,24 @@ a {
 }
 
 .project-name {
+  background-image: url("BannerSuitecaseD.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 130px;
+  margin: 0;
+
+  @include large {
+    height: 190px;
+  }
+
+  @include medium {
+    height: 160px;
+  }
+}
+
+/* original
+.project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
  // background-image: url("../../logo/BannerSuitecaseD.svg");
@@ -141,7 +159,7 @@ a {
     font-size: 1.75rem;
   }
 }
-
+*/
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
