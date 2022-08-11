@@ -1,9 +1,9 @@
- LandScapeA
+ ## Comming soon the next story by Suitecase and his friends
 
 
 
 
 
-[Link](url) and ![Image](src)
+![Image](ramacsvart.jpg)
 
 
