@@ -2,7 +2,7 @@
 
 
 
-### Comming soon the next story by Suitecase and his friends
+## Comming soon the next story by Suitecase and his friends
 
 #### Test
 
@@ -11,4 +11,4 @@
 ![Graphics](ramacsvart.svg)
 
 <b>Image Photo by SuiteCase Friend</b>
-<hr style="border:10px solid blue">
+<hr style="border:6px solid blue">
