@@ -120,7 +120,8 @@ a {
     color: #ff9505;
   text-align: center;
      background-color: #ffffff;
-     background-image: linear-gradient(220deg, #edc9af, #ffffff);
+    // background-image: linear-gradient(220deg, #edc9af, #ffffff);
+    background-image: url("BannerSuitecaseC.svg");
     
   @include medium {
     padding: 3rem 4rem;
@@ -132,7 +133,7 @@ a {
 }
 
 .project-name {
-  background-image: url("BannerSuitecaseC.svg");
+  //background-image: url("BannerSuitecaseC.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
