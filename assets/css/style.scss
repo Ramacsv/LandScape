@@ -90,3 +90,8 @@ a {
     @include sr-only();
   }
 }
+.site-footer-owner {
+  display: block;
+  font-weight: bold;
+  color: #ff0000;
+}
