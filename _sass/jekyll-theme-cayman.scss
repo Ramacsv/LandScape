@@ -104,7 +104,7 @@ a {
     }
   }
 }
-
+/*
 .page-header {
   color: $header-heading-color;
   text-align: center;
@@ -115,7 +115,13 @@ a {
   @include large {
     padding: 5rem 6rem;
   }
-
+*/
+  .page-header {
+    color: #ff9505;
+  text-align: center;
+     background-color: #ff0000;
+     background-image: linear-gradient(220deg, #edc9af, #ffffff);
+    
   @include medium {
     padding: 3rem 4rem;
   }
