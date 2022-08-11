@@ -1,4 +1,4 @@
-.
+<!--- ![Graphics](BannerSuitecaseC.svg) ![Graphics](ramacsvart.jpg) ---> 
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-![Graphics](ramacsvart.jpg)
+![Graphics](ramacsvart.svg)
 
 <b>Image Photo by SuiteCase Friend</b>
 <hr style="border:10px solid blue">
