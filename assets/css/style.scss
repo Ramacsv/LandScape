@@ -95,3 +95,11 @@ a {
   font-weight: bold;
   color: #ff0000;
 }
+a {
+  color: #ff0000;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
